@@ -1,0 +1,6 @@
+# Packages
+node_modules/
+
+# Custom
+.env
+*.zip

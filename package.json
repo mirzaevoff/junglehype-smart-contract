@@ -1,0 +1,30 @@
+{
+  "name": "junglehype-smart-contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mirzaevoff/junglehype-smart-contract.git"
+  },
+  "author": "Mirzaev Ahrorbek ( www.ravendigital.uz )",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirzaevoff/junglehype-smart-contract/issues"
+  },
+  "homepage": "https://github.com/mirzaevoff/junglehype-smart-contract#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.6",
+    "@nomiclabs/hardhat-etherscan": "^3.0.3",
+    "ethers": "^5.6.6",
+    "hardhat": "^2.9.5",
+    "node-fetch": "^2.6.7"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
+    "dotenv": "^16.0.1"
+  }
+}
