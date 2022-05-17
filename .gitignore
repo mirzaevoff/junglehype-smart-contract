@@ -1,6 +1,9 @@
 # Packages
-node_modules/
+/node_modules/
+/artifacts/
+/cache/
 
 # Custom
 .env
+env
 *.zip
